@@ -64,13 +64,14 @@
   text-transform: none;
   letter-spacing: 1px;
   width: 80%;
-  line-height: 1.5;
+  
 }
 
 .figures {
   /* background-color: aliceblue; */
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
+  width: 51%;
 }
 
 /* targeting each div in figures*/
