@@ -1,11 +1,11 @@
 import React from "react";
 
-import { programsData } from "../../data/programsData";
+
 import RightArrow from "../../assets/rightArrow.png"
 
 import "./Programs.css";
 
-const ProgramCards = () => {
+const ProgramCards = ({programsData}) => {
   return (
     <>
     {programsData.map((program) => (

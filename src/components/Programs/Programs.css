@@ -6,22 +6,27 @@
   padding: 0 2rem;
 }
 
+
+
 .programs-header {
-  display: flex;
-  gap: 5rem;
-  font-size: 3rem;
-  justify-content: center;
-  align-items: center;
   text-align: center;
+  font-size: 3rem;
   color: #FFF;
-  text-transform: uppercase;
-  font-style: italic;
+}
+
+.container-programs {
+  margin: 0 auto;
+  max-width: 1024px;
+  /* width: 95%; */
+  /* background-color: #ffa739; */
 
 }
 
+
 .programs-categories{
+  /* background-color: #dc2626; */
   display: flex;
-  gap: 1rem;
+  gap: .5rem;
 }
 
 .category {
