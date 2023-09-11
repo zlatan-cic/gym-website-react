@@ -47,3 +47,10 @@ input[type=text]{
   font-size: 1rem;
   font-weight: bold;
 }
+
+.blur-join-1{
+  width: 32rem;
+  height: 25rem;
+  left: -10rem;
+  
+}

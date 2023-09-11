@@ -37,6 +37,7 @@ const Join = () => {
           </button>
         </form>
       </div>
+      <div className="blur blur-join-1"></div>
     </div>
   );
 };

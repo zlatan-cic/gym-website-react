@@ -6,6 +6,8 @@ import "./Plans.css";
 function Plans() {
   return (
     <div className="plans-container">
+      <div className="blur blur-palns-1"></div>
+      <div className="blur blur-palns-2"></div>
       <div className="programs-header">
         <h3>
           Ready to <span className="stroke-text">start</span> your journey now
