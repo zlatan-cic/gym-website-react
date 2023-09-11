@@ -75,16 +75,16 @@ To run this app locally, follow these steps:
 3. Install dependencies using npm:
 
 ```bash
-   npm install
+   yarn
 ```
 4. Start the development server:
 
 ```bash
-  npm start
+  yarn start
 ```
 
 5. Using Vite
 
 ```bash
-  npm run dev
+  yarn run dev
 ```
