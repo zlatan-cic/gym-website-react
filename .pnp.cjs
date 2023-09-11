@@ -28,6 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
+            ["@emailjs/browser", "npm:3.11.0"],\
             ["@types/react", "npm:18.2.21"],\
             ["@types/react-dom", "npm:18.2.7"],\
             ["@vitejs/plugin-react", "virtual:50228a8b71365198ddad62a166246edf1401520d14b85e6b12757fa1da96b61331e28acaf96e986d23f6ff39df4f372e83841762eaa3d0aa946f65d2ffbfe0a1#npm:4.0.4"],\
@@ -375,6 +376,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helper-string-parser", "npm:7.22.5"],\
             ["@babel/helper-validator-identifier", "npm:7.22.15"],\
             ["to-fast-properties", "npm:2.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["@emailjs/browser", [\
+        ["npm:3.11.0", {\
+          "packageLocation": "./.yarn/cache/@emailjs-browser-npm-3.11.0-3a580335bf-fdeb780f49.zip/node_modules/@emailjs/browser/",\
+          "packageDependencies": [\
+            ["@emailjs/browser", "npm:3.11.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2155,6 +2165,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["gym-website-react", "workspace:."],\
+            ["@emailjs/browser", "npm:3.11.0"],\
             ["@types/react", "npm:18.2.21"],\
             ["@types/react-dom", "npm:18.2.7"],\
             ["@vitejs/plugin-react", "virtual:50228a8b71365198ddad62a166246edf1401520d14b85e6b12757fa1da96b61331e28acaf96e986d23f6ff39df4f372e83841762eaa3d0aa946f65d2ffbfe0a1#npm:4.0.4"],\

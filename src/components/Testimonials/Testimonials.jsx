@@ -12,7 +12,7 @@ const Testimonials = () => {
 
   return (
     <div className="testimonial-container">
-      <div className="testimonials">
+      <div className="testimonials" id="testimonials">
         <div className="left-t">
           <h4>testimonials</h4>
           <h1>

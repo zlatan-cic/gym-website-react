@@ -1,0 +1,49 @@
+
+
+.join {
+  max-width: 1024px;
+  width: 80%;
+  margin: 0 auto;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-heading{
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 1rem;
+}
+
+form {
+  background-color: var(--gray);
+  padding: .5rem 1rem;
+  display: flex;
+  gap: 3rem;
+}
+
+input {
+  background: transparent;
+  color: #FFF;
+}
+
+input[type=text]{
+  background: transparent;
+  width: 250px;
+  padding-right: 1rem;
+  border: none;
+  font-size: 1rem;
+  margin: .5rem;
+}
+
+.btn-j {
+  background-color: var(--orange);
+  padding: .8rem 1.2rem;
+  color: #FFF;
+  font-size: 1rem;
+  font-weight: bold;
+}
